@@ -1,0 +1,7 @@
+body {
+    background-color: pink;
+
+    @media screen and (max-width: 900px) {
+        background-color: blue;
+    }
+}
